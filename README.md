@@ -1,6 +1,6 @@
 # Web-Scraping-Shopify-Website
 
-#This is currently an ongoing project.
+This is currently an ongoing project.
 
 - In this project, we are extracting data from www.robotbano.com. 
 
