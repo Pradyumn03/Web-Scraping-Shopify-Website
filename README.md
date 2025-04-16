@@ -2,7 +2,7 @@
 
 #### This is currently an ongoing project.
 
-- In this project, we are extracting data from www.robotbano.com. 
+- In this project, we are extracting data from www.robotbanao.com. 
 
 #### Python Packages Used :-
 
